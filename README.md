@@ -4,6 +4,8 @@
 
 Based in Georgia, I study offensive and defensive security and build tools for reconnaissance and vulnerability research. My focus is web application security, practical automation, and findings backed by reproducible evidence.
 
+[TryHackMe](https://tryhackme.com/p/1lo) · [LinkedIn](https://linkedin.com/in/1lo)
+
 ## Featured projects
 
 | Project | Focus | Built with |
